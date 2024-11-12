@@ -6,7 +6,7 @@ const Skills = () => {
       <div className='grid md:grid-cols-2 gap-20 items-center'>
         <div data-aos="zoom-in-up">
             <h2 className='text-4xl md:text-5xl'>Technologies I Work With</h2>
-            <p className='text-gray-500 pt-2'>I have solid foundition in web devolopment, specialization in HTML, CSS, and JavaScript. My experience extends to using frameworks like react and Next.js to create dynamic and user-friendly applications. I'm also proficient in Tailwind CSS for efficient Styling and design. With a passion for learning, I stay updated on the latest technologies to enchance my skill set and contribute effectively to projects.</p>
+            <p className='text-gray-500 pt-2'>I have solid foundition in web devolopment, specialization in HTML, CSS, and JavaScript. My experience extends to using frameworks like react and Next.js to create dynamic and user-friendly applications. I am also proficient in Tailwind CSS for efficient Styling and design. With a passion for learning, I stay updated on the latest technologies to enchance my skill set and contribute effectively to projects.</p>
 
         </div>
         <div>
